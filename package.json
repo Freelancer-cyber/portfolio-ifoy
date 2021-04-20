@@ -1,0 +1,27 @@
+{
+  "name": "ifoy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freelancer-cyber/portfolio-ifoy.git"
+  },
+  "author": "Marcu Sorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freelancer-cyber/portfolio-ifoy/issues"
+  },
+  "homepage": "https://github.com/Freelancer-cyber/portfolio-ifoy#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "devDependencies": {
+    "gulp-ttf2woff": "^1.1.1"
+  }
+}
